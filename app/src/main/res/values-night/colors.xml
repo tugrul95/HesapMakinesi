@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#010101</color>
+    <color name="button_background_color">#171717</color>
+    <color name="clear_button_color">#fc6c65</color>
+    <color name="operator_color">#68c838</color>
+    <color name="number_color">#eaeaeb</color>
+    <color name="calculate_button_color">#eeeef0</color>
+    <color name="calculate_button_background">#318507</color>
+</resources>
